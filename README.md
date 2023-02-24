@@ -2,7 +2,7 @@
 
 Introducing my name is **Alfito Putra Fajar Pratama**.
 
-I'm a student at **Sebelas Maret University** .\
+I'm a student at **Sebelas Maret University** .
 
 I am mostly interested in clustering or classification of data and also forecasting data. 
 I am still learning and need a lot of guidance from others, so please help me :).
